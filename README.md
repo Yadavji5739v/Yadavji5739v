@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Ravi Kumar Yadav
 
-<!--
-**Yadavji5739v/Yadavji5739v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+💡 Passionate about AI, Machine Learning & Data Science  
+🚀 Building real-world AI projects  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Python | C++ | SQL | Machine Learning | Deep Learning | Flask | Streamlit
+
+---
+
+## 📌 Featured Projects
+- Visual Search Engine using VLMs
+- Cryptocurrency Liquidity Prediction
+- AI Sign Language Interpreter
+- Smart Attendance System
+
+---
+
+## 📊 GitHub Stats
