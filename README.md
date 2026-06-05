@@ -17,14 +17,14 @@
 - 🚀 Building AI-powered real-world projects  
 - 🌱 Currently learning Advanced Deep Learning & Generative AI  
 - 💡 Interested in Computer Vision, NLP & AI Applications  
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **misterravi89.8@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/ravi-kumar-yadav-5739v//YOUR_LINKEDIN" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -32,9 +32,9 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="blank">
+<!-- <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+</a> -->
 </p>
 
 ---
