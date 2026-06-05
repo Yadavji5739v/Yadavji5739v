@@ -24,7 +24,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ravi-kumar-yadav-5739v//YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/ravi-kumar-yadav-5739v/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
