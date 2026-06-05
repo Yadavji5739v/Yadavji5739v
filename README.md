@@ -63,20 +63,20 @@
 
 # 📌 Featured Projects
 
+## 📊 Power BI Sales Analysis Dashboard
+Interactive business intelligence dashboard for analyzing sales performance, profit trends, customer behavior, and business insights using Power BI.
+
 ## 🔍 Visual Search Engine using VLMs
 AI-powered image retrieval system using Vision Language Models and Streamlit.
 
-## 💰 Cryptocurrency Liquidity Prediction
-Machine Learning model to predict crypto market liquidity and trading trends.
+## 🐱🐶 Cat vs Dog Image Classification
+Deep Learning-based image classification model using CNNs to accurately distinguish between cats and dogs.
 
-## 🤟 AI Sign Language Interpreter
-Deep Learning-based sign language recognition system for communication assistance.
+## 🌐 Personal Portfolio Website
+Responsive portfolio website showcasing projects, technical skills, certifications, and achievements.
 
-## 🧠 Smart Attendance System
-Face Recognition based attendance system using OpenCV & Machine Learning.
-
-## 🐦 Bird & Egg Detection System
-Computer Vision project for real-time bird and egg detection using PyTorch.
+## 🍷 Wine Quality Prediction
+Machine Learning model to predict wine quality based on physicochemical properties and data analysis techniques.
 
 ---
 
